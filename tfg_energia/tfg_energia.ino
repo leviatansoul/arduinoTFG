@@ -7,7 +7,7 @@
 //Datos del dispositivo
 #define USERNAME "leviatansoul"
 #define DEVICE_ID "tfg_energia"
-#define DEVICE_CREDENTIAL "r0PiLq&IpRv$"
+#define DEVICE_CREDENTIAL "********"
 
 //CREDENCIALES DEL ROUTER
 //#define SSID "*****_****"
